@@ -152,14 +152,14 @@ button:hover {
     
     .title {
         font-family: "Fraunces", sans-serif;
-        font-size: 2.5vw;
+        font-size: 2vw;
         font-weight: bold;
         line-height: 95%;
     }
 
     .intro {
         font-family: "Montserrat", sans-serif;
-        font-size: 1vw;
+        font-size: 0.9vw;
         color: gray;
         line-height: 150%;
         padding: 4% 0%;
